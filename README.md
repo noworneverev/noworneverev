@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/noworneverev?style=flat-square&logo=github)
 ![](https://komarev.com/ghpvc/?username=noworneverev&style=flat-square)
 
-![Yan-Yings's GitHub stats](https://github-readme-stats-seven-beta-28.vercel.app/api?username=noworneverev&show_icons=true)
+![Yan-Yings's GitHub stats](https://github-readme-stats-seven-beta-28.vercel.app/api?username=noworneverev&show_icons=true&theme=tokyonight)
 
 ## About Me
 - 💻 **Research Engineer** @ [Fraunhofer FIT](https://www.fit.fraunhofer.de/en/business-areas/data-science-and-artificial-intelligence.html)
